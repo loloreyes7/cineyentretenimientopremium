@@ -1,4 +1,4 @@
-# cineyentretenimientopremium
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/dracohe/INTERNACIONALES/master/guide.xml"
 
 #EXTINF:
