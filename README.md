@@ -1,1 +1,32 @@
 # cineyentretenimientopremium
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/dracohe/INTERNACIONALES/master/guide.xml"
+
+#EXTINF:
+
+https://?
+
+#EXTINF:-1 group title="Series" tvg-id="los anillos del poder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CpZkU4RWNBogOJkBqup1iJ1oatgFGdHaVfKYYs2u567wXB7ilDE6bWj3O7RgAWZ9ZS4&usqp=CAU", episodio 1
+
+https://pelisacestreamblogspot.b-cdn.net/los%20anillos%20del%20poder%20/Esdla_Los_Anillos_De_Poder_Temporada_1_HdtvCap_101Comprimido.m4v
+
+
+#EXTINF:-1 group title="Series" tvg-id="los anillos del poder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CpZkU4RWNBogOJkBqup1iJ1oatgFGdHaVfKYYs2u567wXB7ilDE6bWj3O7RgAWZ9ZS4&usqp=CAU", episodio 2
+
+https://pelisacestreamblogspot.b-cdn.net/los%20anillos%20del%20poder%20/Esdla_Los_Anillos_De_Poder_Temporada_1_HdtvCap_102Comprimido.m4v
+
+#EXTINF:-1 group title="Series" tvg-id="los anillos del poder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CpZkU4RWNBogOJkBqup1iJ1oatgFGdHaVfKYYs2u567wXB7ilDE6bWj3O7RgAWZ9ZS4&usqp=CAU", episodio 3
+
+https://pelisacestreamblogspot.b-cdn.net/los%20anillos%20del%20poder%20/Esdla_Los_Anillos_De_Poder_Temporada_1_HdtvCap_103Comprimido.m4v
+
+#EXTINF:-1 group title="Series" tvg-id="los anillos del poder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CpZkU4RWNBogOJkBqup1iJ1oatgFGdHaVfKYYs2u567wXB7ilDE6bWj3O7RgAWZ9ZS4&usqp=CAU", episodio 4
+
+https://pelisacestreamblogspot.b-cdn.net/los%20anillos%20del%20poder%20/Esdla_Los_Anillos_De_Poder_Temporada_1_HdtvCap_104Comprimido.mp4
+
+#EXTINF:-1 group title="Series" tvg-id="los anillos del poder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CpZkU4RWNBogOJkBqup1iJ1oatgFGdHaVfKYYs2u567wXB7ilDE6bWj3O7RgAWZ9ZS4&usqp=CAU", episodio 5
+
+
+
+
+#EXTINF:-1 group title="Series" tvg-id="los anillos del poder" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CpZkU4RWNBogOJkBqup1iJ1oatgFGdHaVfKYYs2u567wXB7ilDE6bWj3O7RgAWZ9ZS4&usqp=CAU", episodio 6
+
+https://pelisacestreamblogspot.b-cdn.net/los%20anillos%20del%20poder%20/%5BS01.E06%5D%20El%20Señor%20De%20Los%20Anillos%20Los%20Anillos%20De%20Poder%20-%20Udûn-1%20comprimmido.m4v
