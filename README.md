@@ -16,9 +16,9 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-                        "name": "animales fantasticos",
-                    "image": "https://static.wikia.nocookie.net/doblaje/images/7/70/Planet_51_Planeta_51-278733026-large.jpg/revision/latest?cb=20220820003920&path-prefix=es",
-                    "url": "https://upstream.to/7ltwxm1mn0kx",
+                        "name": "PICACHU",
+                    "image": "https://musicart.xboxlive.com/7/d70e5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+                    "url": "https://www.canva.com/design/DAFb4vFddlw/MweP8dj1M6D-ZO8X9lJJUg/watch?utm_content=DAFb4vFddlw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
                     "isHost":"true"
                         },{ 
                        "name": "Garra",
